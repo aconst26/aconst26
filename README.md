@@ -9,20 +9,10 @@ Computer Science student passionate about software engineering, backend developm
 
 ## Tech Stack
 ### Languages
-- C++
-- JavaScript
-- SQL
-- Python
-- HTML/CSS
-- Java
+- C++, Python, SQL, Java, HTML/CSS, JavaScript
 
 ### Tools & Technologies
-- Git & GitHub
-- MySQL
-- Spring Boot
-- React
-- REST APIs
-- Node.js
+- Git & GitHub, MySQL, Spring Boot, REST APIs, Node.js, React
 
 ## Currently Working On
 - Improving full-stack development skills
