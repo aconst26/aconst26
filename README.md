@@ -19,5 +19,6 @@ Computer Science student passionate about software engineering, backend developm
 - Building stronger projects
 - Expanding software engineering knowledge through hands-on projects
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/constante26a?theme=dark&font=Baloo&ext=heatmap)
 ---
 Always learning, building, and improving.
